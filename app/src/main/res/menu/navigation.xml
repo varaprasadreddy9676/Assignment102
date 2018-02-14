@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home"/>
+
+    <item
+        android:id="@+id/navigation_about_us"
+        android:icon="@android:drawable/ic_dialog_info"
+        android:title="@string/about_us_title"/>
+
+    <item
+        android:id="@+id/navigation_academics"
+        android:icon="@android:drawable/zoom_plate"
+        android:title="@string/academics_title"/>
+
+    <item
+        android:id="@+id/navigation_departments"
+        android:icon="@android:drawable/ic_dialog_dialer"
+        android:title="@string/departments_title"
+        />
+
+</menu>
